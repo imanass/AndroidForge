@@ -16,6 +16,7 @@
 #
 # Reference: https://developer.android.com/build/releases/gradle-plugin
 agp_to_gradle:
+  "8.13": "8.13"
   "8.7": "8.9"
   "8.6": "8.7"
   "8.5": "8.7"
@@ -151,3 +152,4 @@ dependency_fallbacks:
   - "https://repo1.maven.org/maven2"
   - "https://plugins.gradle.org/m2"
   - "https://jitpack.io"
+
